@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kerim
-- 👀 I’m interested in android apps
-- 🌱 I’m currently learning Kotlin
-- 📫 How to reach me -> dm on twitter @kerramihamidou
+- 👀 I’m interested in ios apps
+- 🌱 I’m currently learning Swift
+- 📫 How to reach me -> dm on instagram @kerramihamidou
 
