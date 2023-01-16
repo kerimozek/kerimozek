@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Kerim
-- 👀 I’m interested in ios apps
-- 🌱 I’m currently learning Swift
+- 🌱 I’m building apps with UIKit and SwiftUI
 - 📫 mehmetkerimozek@gmail.com
 
